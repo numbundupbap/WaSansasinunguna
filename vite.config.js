@@ -5,3 +5,4 @@ import react from '@vitejs/plugin-react-swc'
 export default defineConfig({
   plugins: [react()],
 })
+console.log('현이 왔다감')
